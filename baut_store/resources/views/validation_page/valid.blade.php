@@ -8,7 +8,7 @@
     @vite('resources/css/app.css')
     <style>
         body {
-            background: linear-gradient(to bottom right, #00c6ff, #0072ff);
+            background: linear-gradient(to bottom right, #3f70b7, #1f2937);
         }
     </style>
 </head>
